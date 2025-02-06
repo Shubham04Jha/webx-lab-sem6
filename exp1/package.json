@@ -1,0 +1,12 @@
+{
+  "name": "exp1",
+  "version": "1.0.0",
+  "main": "d_employee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc a_calculator.ts && node a_calculator.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

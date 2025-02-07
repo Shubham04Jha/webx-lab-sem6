@@ -4,7 +4,7 @@
   "main": "d_employee.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsc a_calculator.ts && node a_calculator.js"
+    "dev": "tsc b_student.ts && node b_student.js"
   },
   "author": "",
   "license": "ISC",
